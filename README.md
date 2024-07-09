@@ -1,0 +1,3 @@
+Rapport Desktop : https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fnina-carducci.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=fr&utm_source=lh-chrome-ext
+Rapport Mobile : https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fnina-carducci.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=fr&utm_source=lh-chrome-ext
+Rapport PageSpeed Insights : https://pagespeed.web.dev/analysis/https-nina-carducci-github-io/bj1our84zx?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=fr&utm_source=lh-chrome-ext
