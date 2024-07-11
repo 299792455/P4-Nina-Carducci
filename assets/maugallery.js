@@ -254,7 +254,7 @@
         return;
       }
       $(".active-tag").removeClass("active active-tag");
-      $(this).addClass("active-tag");
+      $(this).addClass("active active-tag"); // Rajout d'active pr call le backgroud color//
 
       var tag = $(this).data("images-toggle");
 
